@@ -1,7 +1,10 @@
 <div align="center">
 
 # Shejal Dubey
+
+```
 frontend developer · full-stack engineer · 2027 batch
+```
 
 I build clean, production-ready interfaces and full-stack systems — from reusable component libraries to real-time backends.
 Hackathon Finalist @ Odoo × IIT Gandhinagar 2025 · Scopus-indexed researcher
@@ -15,7 +18,10 @@ Hackathon Finalist @ Odoo × IIT Gandhinagar 2025 · Scopus-indexed researcher
 </div>
 
 <br/>
+
+```
 // stack
+```
 
 | | |
 |---|---|
@@ -26,7 +32,10 @@ Hackathon Finalist @ Odoo × IIT Gandhinagar 2025 · Scopus-indexed researcher
 | **tooling** | `Git` `GitHub Actions` `Storybook` `Vitest` `Postman` |
 
 <br/>
+
+```
 // experience
+```
 
 **Software Engineering Intern, Frontend** — Bharat Electronics Limited
 `June 2026 – Present`
@@ -37,7 +46,10 @@ Engineered the complete frontend of a production internal tool using HTML, CSS &
 Delivered a production-grade IPO listing platform end-to-end — React.js admin dashboard and public-facing UI, CRUD REST APIs via Node.js/Express.js across multiple endpoints, and document upload/download functionality. Designed the MongoDB schema for structured IPO data storage, maintained clean version control through the full development lifecycle, and validated all endpoints with Postman. Zero post-launch critical bugs across both interfaces.
 
 <br/>
+
+```
 // projects
+```
 
 <table>
 <tr>
@@ -92,7 +104,10 @@ Privacy-focused RAG system for secure, natural-language querying of local PDF do
 </table>
 
 <br/>
+
+```
 // notes
+```
 
 - A grade, Database Systems & Data Structures and Algorithms
 - B.Tech CSE, Jaypee University of Engineering and Technology — CGPA 7.28, July 2023 – May 2027
