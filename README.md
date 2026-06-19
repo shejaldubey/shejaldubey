@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:2B1B3D,100:4A2D5C&height=190&section=header&text=Hey,%20I'm%20Shejal%20👋&fontSize=42&fontColor=FFC857&fontAlignY=40&desc=Frontend%20Developer%20building%20interfaces%20people%20actually%20enjoy%20using&descAlignY=62&descColor=F4F1FA)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:2B1B3D,100:4A2D5C&height=190&section=header&text=Hey,%20I'm%20Shejal%20👋&fontSize=42&fontColor=FFC857&fontAlignY=40&desc=%20Developer%20building%20interfaces%20people%20actually%20enjoy%20using&descAlignY=62&descColor=F4F1FA)
 
 <sub>🎓 B.Tech CSE, JUET '27 &nbsp;·&nbsp; 🧵 Component Systems &nbsp;·&nbsp; 🏆 Hackathon Finalist &nbsp;·&nbsp; 📑 Scopus Published</sub>
 
